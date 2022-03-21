@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4848498587086318952
+  m_GuidHigh: 11441498868745039014
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5652703348372048743
+      m_GuidHigh: 9519084254546508219
+    m_SerializedTextureGuid:
+      m_GuidLow: 15268595945271544699
+      m_GuidHigh: 17321987819413371689
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: chest
+    m_Texture: {fileID: 2800000, guid: a0e14b7bf31dd3e429fbc65b251064f0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5545771847421157188
+      m_GuidHigh: 386060025605520527
+    m_SerializedTextureGuid:
+      m_GuidLow: 16669168635176093586
+      m_GuidHigh: 2931744668637837211
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: poster
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4970542398733346255
+      m_GuidHigh: 2494514313709302913
+    m_SerializedTextureGuid:
+      m_GuidLow: 982996952270720772
+      m_GuidHigh: 17032244370582277720
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: radio
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5366080255416580329
+      m_GuidHigh: 9975410835245594046
+    m_SerializedTextureGuid:
+      m_GuidLow: 10724372299981634112
+      m_GuidHigh: 17049693228031861403
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: blackboard
+    m_Texture: {fileID: 0}
